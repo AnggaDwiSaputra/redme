@@ -2,43 +2,43 @@
  {{ Aplikasi penyewaan perangkat Audio ( seperti : Headphone, Earphone, Bluetooth Speaker ). Konsepnya mirip seperti Start Up ReCharge Indonesia, yakni penyewaan PowerBank. }}
 ### Screenshot
 # Halaman Awal
-<img src="ss/1.png" height=500>
+<img src="1.png" height=500>
 
 # Halaman Awal
-<img src="ss/2.png" height=500>
+<img src="2.png" height=500>
 
 # Halaman Awal
-<img src="ss/3.png" height=500>
+<img src="3.png" height=500>
 
 # Halaman Login
-<img src="ss/4.png" height=500>
+<img src="4.png" height=500>
 
 # Halaman Signup
-<img src="ss/5.png" height=500>
+<img src="5.png" height=500>
 
 # Halaman Home
-<img src="ss/6.png" height=500>
+<img src="6.png" height=500>
 
 # Halaman Notifikasi
-<img src="ss/7.png" height=500>
+<img src="7.png" height=500>
 
 # Halaman Find Timbre
-<img src="ss/8.png" height=500>
+<img src="8.png" height=500>
 
 # Halaman Help
-<img src="ss/9.png" height=500>
+<img src="9.png" height=500>
 
 # Halaman Profil
-<img src="ss/10.png" height=500>
+<img src="10.png" height=500>
 
 # Halaman Histori Transaksi
-<img src="ss/11.png" height=500>
+<img src="11.png" height=500>
 
 # Halaman Sebelum Pembayaran
-<img src="ss/12.png" height=500>
+<img src="12.png" height=500>
 
 # Halaman Scanning Barcode
-<img src="ss/13.png" height=500>
+<img src="13.png" height=500>
 
 
 ### Built With
@@ -73,25 +73,25 @@ Navigator
 }}
 
 ### Created By
-- {{ Angga Dwi Saputra }}
-   Halaman awal
-   Halaman Login
-   Buat README
-   Upload Github
+- {{ Angga Dwi Saputra }} <br>
+   Halaman awal <br>
+   Halaman Login <br>
+   Buat README <br>
+   Upload Github <br>
 
-- {{ Anton Kurniawan }}
-    Halaman Signup
-    Halaman Home
-    Halaman Notifikasi
-    Halaman Find Timbre
-    Halaman Help
-    Halaman Profil
-- {{ Dimas Prasetyo }}
-    Halaman Histori Transaksi
-    Halaman Sebelum Pembayaran
-    Halaman Scane Barcode
-- {{dst}}
----
+- {{ Anton Kurniawan }} <br>
+    Halaman Signup <br>
+    Halaman Home <br>
+    Halaman Notifikasi <br>
+    Halaman Find Timbre <br>
+    Halaman Help <br>
+    Halaman Profil <br>
+    
+- {{ Dimas Prasetyo }} <br>
+    Halaman Histori Transaksi <br>
+    Halaman Sebelum Pembayaran <br>
+    Halaman Scane Barcode <br>
+
 ### Mata Kuliah
 COE-5109 Pemprograman Mobile.
 ### Dosen
